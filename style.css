@@ -7,7 +7,7 @@
 body {
     font-size: 1.2rem;
     font-family: 'Work Sans', sans-serif;
-    min-height: 2000px;
+    min-height: 4000px;
 }
 
 
@@ -68,6 +68,22 @@ body {
 }
 
 
+.mynavbar {}
+
+
+.mynavbar .navbar-brand,
+.mynavbar .offcanvas-title {
+    font-family: 'sacramento', cursive;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+
+.mynavbar .nav-link {
+    text-transform: uppercase;
+}
+
+
 /* Media Query */
 /* Laptop */
 @media (max-width: 992px) {
@@ -89,6 +105,11 @@ body {
     .simply-countdown>.simply-section {
         padding: 60px;
         margin: 5px;
+    }
+
+    .mynavbar .nav-link {
+        font-size: 2rem;
+        text-align: center;
     }
 }
 
