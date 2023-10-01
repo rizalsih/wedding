@@ -1,3 +1,2 @@
 # wedding
-sedang proses <br>
-intip link https://rizalsih.github.io/wedding/
+sedang proses, link https://rizalsih.github.io/wedding/
